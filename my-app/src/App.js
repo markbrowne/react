@@ -4,7 +4,7 @@ import './App.css';
 var HelloUser = React.createClass({
   getInitialState: function(){
     return {
-      username: '@tylermcginnis33'
+      username: 'markbrown'
     }
   },
   handleChange: function(e){
